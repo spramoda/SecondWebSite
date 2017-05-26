@@ -13,6 +13,6 @@ public partial class _Default : Page
     }
     protected void ClkBtn_Click(object sender, EventArgs e)
     {
-        MsgLbl.Text = "Please don't click on button";
+        MsgLbl.Text = "clicked on button";
     }
 }
