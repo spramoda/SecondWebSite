@@ -4,9 +4,9 @@
 
     <div class="jumbotron">
         <h1>Test Web Site</h1>
-        <p class="lead">This is my web site ..123454321 abcd</p>
+        <p class="lead">This is my web site .</p>
         <div>
-            <asp:Button ID="ClkBtn" runat="server" OnClick="ClkBtn_Click" Text="Click on it..please...please" />            
+            <asp:Button ID="ClkBtn" runat="server" OnClick="ClkBtn_Click" Text="Click on it..please..." />            
         </div>
          <div>
             <asp:Label ID="MsgLbl" runat="server"></asp:Label>
